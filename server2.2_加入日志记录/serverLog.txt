@@ -1,0 +1,5 @@
+CELLLog::setLogPath sucess,<path = "serverLog.txt">,<mode = "w">
+CellTaskServer.Run()  exit
+CellTaskServer.Run()  exit
+CellTaskServer.Run()  exit
+CellTaskServer.Run()  exit

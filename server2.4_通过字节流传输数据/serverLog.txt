@@ -1,0 +1,49 @@
+[2019-6-24 11:6:37]CELLLog::setLogPath sucess,<path = "serverLog.txt">,<mode = "w">
+[2019-6-24 11:6:37]create socket=<228> succ...
+[2019-6-24 11:6:37]bind port<8080> succ...
+[2019-6-24 11:6:37]socket=<228>listen port succ...
+[2019-6-24 11:6:38]socket=<228>,time:1.001306,client num:0,msg num:0
+[2019-6-24 11:6:39]socket=<228>,time:1.001315,client num:0,msg num:0
+[2019-6-24 11:6:40]socket=<228>,time:1.000376,client num:0,msg num:0
+[2019-6-24 11:6:41]socket=<228>,time:1.000275,client num:0,msg num:0
+[2019-6-24 11:6:42]socket=<228>,time:1.001306,client num:0,msg num:0
+[2019-6-24 11:6:43]socket=<228>,time:1.000641,client num:0,msg num:0
+[2019-6-24 11:6:44]socket=<228>,time:1.000042,client num:0,msg num:0
+[2019-6-24 11:6:45]socket=<228>,time:1.000295,client num:0,msg num:0
+[2019-6-24 11:6:46]socket=<228>,time:1.000323,client num:0,msg num:0
+[2019-6-24 11:6:47]socket=<228>,time:1.001333,client num:0,msg num:0
+[2019-6-24 11:6:48]socket=<228>,time:1.001378,client num:0,msg num:0
+[2019-6-24 11:6:49]socket=<228>,time:1.000261,client num:0,msg num:0
+[2019-6-24 11:6:50]socket=<228>,time:1.001304,client num:0,msg num:0
+[2019-6-24 11:6:51]socket=<228>,time:1.001385,client num:0,msg num:0
+[2019-6-24 11:6:52]socket=<228>,time:1.000303,client num:0,msg num:0
+[2019-6-24 11:6:53]socket=<228>,time:1.001430,client num:0,msg num:0
+[2019-6-24 11:6:54]socket=<228>,time:1.001521,client num:0,msg num:0
+[2019-6-24 11:6:55]socket=<228>,time:1.000988,client num:0,msg num:0
+[2019-6-24 11:6:56]socket=<228>,time:1.001350,client num:0,msg num:0
+[2019-6-24 11:6:57]socket=<228>,time:1.000304,client num:0,msg num:0
+[2019-6-24 11:7:5]socket=<228>,time:7.254596,client num:0,msg num:0
+[2019-6-24 11:7:6]socket=<228>,time:1.001669,client num:0,msg num:0
+[2019-6-24 11:7:7]socket=<228>,time:1.001313,client num:0,msg num:0
+[2019-6-24 11:7:8]socket=<228>,time:1.001301,client num:0,msg num:0
+[2019-6-24 11:7:9]socket=<228>,time:1.000048,client num:0,msg num:0
+[2019-6-24 11:7:9]EasyServer.Close() begin
+[2019-6-24 11:7:9]EasyServer.Run()  exit
+[2019-6-24 11:7:9]CellServer1.Close() begin
+[2019-6-24 11:7:9]CellServer1.Run()  exit
+[2019-6-24 11:7:9]CellTaskServer.Run()  exit
+[2019-6-24 11:7:9]CellServer1.Close() end
+[2019-6-24 11:7:9]CellServer2.Close() begin
+[2019-6-24 11:7:9]CellServer2.Run()  exit
+[2019-6-24 11:7:9]CellTaskServer.Run()  exit
+[2019-6-24 11:7:9]CellServer2.Close() end
+[2019-6-24 11:7:9]CellServer3.Close() begin
+[2019-6-24 11:7:9]CellServer3.Run()  exit
+[2019-6-24 11:7:9]CellTaskServer.Run()  exit
+[2019-6-24 11:7:9]CellServer3.Close() end
+[2019-6-24 11:7:9]CellServer4.Close() begin
+[2019-6-24 11:7:9]CellServer4.Run()  exit
+[2019-6-24 11:7:9]CellTaskServer.Run()  exit
+[2019-6-24 11:7:9]CellServer4.Close() end
+[2019-6-24 11:7:9]EasyServer.Close() end
+[2019-6-24 11:7:9]server exit
